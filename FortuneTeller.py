@@ -36,4 +36,5 @@ while answer == "y" :
     
     else:
         print("Invalid color")
-        answer=input('Press "y" to play and "n" to exit')
+
+    answer=input('Press "y" to play and "n" to exit')
