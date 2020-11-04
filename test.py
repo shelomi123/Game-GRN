@@ -1,7 +1,7 @@
 import random
 
 r = random.randint(1,49)
-print(r)
+#print(r)
 
 g=int(input("Enter a number between 1 and 49 : "))
 
